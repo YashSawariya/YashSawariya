@@ -36,13 +36,15 @@
 #
 ## 🎉 Github Stats
 
-!Yash Sawariya's GitHub stats
-
+![Manish Dahiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashSawariya&border_color=000&show_icons=true&theme=light)
 
 ##
-![Top Langs](https://github.com/YashSawariya/github-readme-stats)
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSawariya&border_color=000&layout=compact&theme=ligh&card_width=465)](https://github.com/manishdahiya00/github-readme-stats)
 #
-![GitHub Streak](https://git.io/streak-stats)
+#
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YashSawariya&theme=light&border_radius=10&hide_total_contributions=false&starting_year=2024&border=black&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
 ###
 #
 # 🎉🎉 THANK YOU FOR VISITING MY PROFILE 🎉🎉
