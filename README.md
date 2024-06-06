@@ -36,7 +36,7 @@
 #
 ## 🎉 Github Stats
 
-!Manish Dahiya's GitHub stats
+!Yash Sawariya's GitHub stats
 
 
 ##
