@@ -1,10 +1,10 @@
 
 
-# 👋 Hi there! I'm Manish Dahiya.
+# 👋 Hi there! I'm Yash Sawariya.
 ###
 
 ## 🚀 About Me
-#### Hello there! I'm Manish Dahiya, a passionate and detail-oriented full-stack developer with a love for turning ideas into functional and efficient software solutions.
+#### Hello there! I'm Yash Sawariya, a passionate and detail-oriented full-stack developer with a love for turning ideas into functional and efficient software solutions.
 
 *    💻 I specialize in full-stack development, bringing proficiency in both front-end and back-end technologies.
 
@@ -40,7 +40,7 @@
 
 
 ##
-![Top Langs](https://github.com/manishdahiya00/github-readme-stats)
+![Top Langs](https://github.com/YashSawariya/github-readme-stats)
 #
 ![GitHub Streak](https://git.io/streak-stats)
 ###
