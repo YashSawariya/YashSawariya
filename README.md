@@ -19,14 +19,14 @@ Welcome to my GitHub profile! I'm an enthusiastic Android Developer with a passi
 
 ## 📱 Projects
 
-### [Project 1: FunStar-Earn Game Rewards]
+### Project 1: FunStar-Earn Game Rewards
 **Description:** Wanted to earn Game rewards and free cashbacks, then use
 FunStar App is a amazing and simple app for game rewards.
 
 - **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
-- **Play Store Link:** [https://play.google.com/store/apps/details?id=com.funstar.android]
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.funstar.android
 
-### [Project 2: HoneyBunch (Chat, Meet and Dating App)]
+### Project 2: HoneyBunch (Chat, Meet and Dating App)
 **Description:** HoneyBunch is the dating app that lets you find everyone
 you have crossed pathways with; the people kismat has
 decided you should meet. Like the profiles that catch your
@@ -35,7 +35,7 @@ eye, get a crush and most importantly, get together!
 - **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
 - **Demo:** [Link to the demo or APK](#)
 
-### [Project 3: Oril (The Short Video App)]
+### Project 3: Oril (The Short Video App)
 **Description:** Oril is a short-form video hosting service .
 It hosts an array of short-form user videos, from genres like pranks, stunts, tricks, jokes, dance, and entertainment with durations from 15 to 30 Seconds.
 The Oril app has many advanced features like, Short Video, Wallet, Reward system, Redeem Options etc.
