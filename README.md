@@ -4,60 +4,41 @@ Welcome to my GitHub profile! I'm an enthusiastic Android Developer with a passi
 
 ## 🚀 About Me
 
-- 🌱 I’m currently enhancing my skills in [specific technologies or languages].
+- 🌱 I’m currently enhancing my skills in Jetpack Compose.
 - 💬 Ask me about Android development, Kotlin, Java, and mobile UI/UX design.
-- 🏆 Achievements: [Any relevant certifications or notable accomplishments].
-- 🎓 Education: [Your degree and the university you attended].
-- 📫 How to reach me: [Your email or preferred contact method].
+- 🎓 Education: Bachelor of Computer Applications (BCA) from MDU.
+- 📫 How to reach me: yashsawariya8@gmail.com.
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Kotlin, Java, Python
-- **Frameworks & Libraries:** Jetpack Compose, Retrofit, Dagger, Hilt
-- **Tools & Platforms:** Android Studio, Firebase, Git, Jenkins, Gradle
+- **Programming Languages:** Kotlin, Java
+- **Frameworks & Libraries:** Jetpack Compose, Retrofit, Dagger, Glide, Picasso
+- **Tools & Platforms:** Android Studio, Firebase, Git, Gradle
 - **Design:** XML, Material Design, Custom Views
-- **Other:** RESTful APIs, MVVM Architecture, Unit Testing
+- **Other:** RESTful APIs, MVVM/MVC Architecture, Integrate Payment Gateway, Sqlite, Room DB
 
 ## 📱 Projects
 
-### [Project 1: Name]
-**Description:** A brief description of the project and its main features.
+### [Project 1: FunStar-Earn Game Rewards]
+**Description:** Wanted to earn Game rewards and free cashbacks, then use
+FunStar App is a amazing and simple app for game rewards.
 
-- **Technologies Used:** Kotlin, Retrofit, Jetpack Compose
-- **Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **GitHub Repository:** [Link to the repository](https://github.com/yourusername/project1)
+- **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
 - **Demo:** [Link to the demo or APK](#)
 
-### [Project 2: Name]
-**Description:** A brief description of the project and its main features.
+### [Project 2: HoneyBunch (Chat, Meet and Dating App)]
+**Description:** HoneyBunch is the dating app that lets you find everyone
+you have crossed pathways with; the people kismat has
+decided you should meet. Like the profiles that catch your
+eye, get a crush and most importantly, get together!
 
-- **Technologies Used:** Java, Firebase, Glide
-- **Features:** 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **GitHub Repository:** [Link to the repository](https://github.com/yourusername/project2)
+- **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
 - **Demo:** [Link to the demo or APK](#)
-
-## 📄 Blog & Writing
-
-- **Medium:** [Link to your Medium profile](https://medium.com/@yourusername)
-- **Personal Blog:** [Link to your personal blog](https://yourblog.com)
-
-## 🏆 Achievements & Certifications
-
-- **Certification 1:** [Link to certification](#)
-- **Certification 2:** [Link to certification](#)
-- **Hackathon Wins:** [Details if applicable]
 
 ## 📫 Connect with Me
 
-- **LinkedIn:** [Link to your LinkedIn profile](https://linkedin.com/in/yourusername)
-- **Twitter:** [Link to your Twitter profile](https://twitter.com/yourusername)
-- **Email:** [youremail@example.com]
+- **LinkedIn:** [Link to your LinkedIn profile](https://www.linkedin.com/in/yash-sawariya/)
+- **Email:** [yashsawariya8@gmail.com]
 
 ## 💡 Fun Fact
 
