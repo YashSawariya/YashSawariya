@@ -33,7 +33,7 @@ decided you should meet. Like the profiles that catch your
 eye, get a crush and most importantly, get together!
 
 - **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
-- **Demo:** [Link to the demo or APK](#)
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.honeybunch.app
 
 ### Project 3: Oril (The Short Video App)
 **Description:** Oril is a short-form video hosting service .
@@ -43,12 +43,12 @@ Users can earn and redeem gifts from their short videos.
 Create and explore short videos.
 
 - **Technologies Used:** Kotlin, Retrofit, Ads Integration, Firebase, CameraX, Deepar, etc.
-- **Demo:** [Link to the demo or APK](#)
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.oril
 
 ## 📫 Connect with Me
 
 - **LinkedIn:** [Link to your LinkedIn profile](https://www.linkedin.com/in/yash-sawariya/)
-- **Email:** [yashsawariya8@gmail.com]
+- **Email:** yashsawariya8@gmail.com
 
 ---
 
