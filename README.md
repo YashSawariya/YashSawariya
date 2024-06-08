@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yash 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic Android Developer with a passion for creating intuitive and dynamic mobile applications. 
 
@@ -32,17 +32,23 @@ you have crossed pathways with; the people kismat has
 decided you should meet. Like the profiles that catch your
 eye, get a crush and most importantly, get together!
 
-- **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
+- **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
+- **Demo:** [Link to the demo or APK](#)
+
+### [Project 3: Oril (The Short Video App)]
+**Description:** Oril is a short-form video hosting service .
+It hosts an array of short-form user videos, from genres like pranks, stunts, tricks, jokes, dance, and entertainment with durations from 15 to 30 Seconds.
+The Oril app has many advanced features like, Short Video, Wallet, Reward system, Redeem Options etc.
+Users can earn and redeem gifts from their short videos.
+Create and explore short videos.
+
+- **Technologies Used:** Kotlin, Retrofit, Ads Integration, Firebase, CameraX, Deepar, etc.
 - **Demo:** [Link to the demo or APK](#)
 
 ## 📫 Connect with Me
 
 - **LinkedIn:** [Link to your LinkedIn profile](https://www.linkedin.com/in/yash-sawariya/)
 - **Email:** [yashsawariya8@gmail.com]
-
-## 💡 Fun Fact
-
-- I love contributing to open-source projects and am always on the lookout for new challenges and collaborations.
 
 ---
 
