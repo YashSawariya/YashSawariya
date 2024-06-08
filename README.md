@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an enthusiastic Android Developer with a passi
 FunStar App is a amazing and simple app for game rewards.
 
 - **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
-- **Demo:** [Link to the demo or APK](#)
+- **Play Store Link:** [https://play.google.com/store/apps/details?id=com.funstar.android](#)
 
 ### [Project 2: HoneyBunch (Chat, Meet and Dating App)]
 **Description:** HoneyBunch is the dating app that lets you find everyone
