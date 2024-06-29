@@ -35,15 +35,11 @@ eye, get a crush and most importantly, get together!
 - **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
 - **Play Store Link:** https://play.google.com/store/apps/details?id=com.honeybunch.app
 
-### Project 3: Oril (The Short Video App)
-**Description:** Oril is a short-form video hosting service .
-It hosts an array of short-form user videos, from genres like pranks, stunts, tricks, jokes, dance, and entertainment with durations from 15 to 30 Seconds.
-The Oril app has many advanced features like, Short Video, Wallet, Reward system, Redeem Options etc.
-Users can earn and redeem gifts from their short videos.
-Create and explore short videos.
+### Project 3: OfferZone App-Earn Rewards
+**Description:** OfferZone is a revolutionary mobile application designed to transform the way users engage with incentives, promotions, and rewards. It stands out in the crowded landscape of digital incentive platforms by offering a seamless, user-friendly experience that combines cutting-edge technology with a deep understanding of consumer behavior.
 
-- **Technologies Used:** Kotlin, Retrofit, Ads Integration, Firebase, CameraX, Deepar, etc.
-- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.oril
+- **Technologies Used:** Kotlin, Retrofit, API integration, etc.
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.offerzone.ozapp
 
 ## 📫 Connect with Me
 
