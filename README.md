@@ -35,11 +35,11 @@ eye, get a crush and most importantly, get together!
 - **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
 - **Play Store Link:** https://play.google.com/store/apps/details?id=com.honeybunch.app
 
-### Project 3: OfferZone App-Earn Rewards
-**Description:** OfferZone is a revolutionary mobile application designed to transform the way users engage with incentives, promotions, and rewards. It stands out in the crowded landscape of digital incentive platforms by offering a seamless, user-friendly experience that combines cutting-edge technology with a deep understanding of consumer behavior.
+### Project 3: ScanBuddy
+**Description:** ScanBuddy app is the fastest QR code and barcode reader on the market. This app is essential for every Android device, offering rapid and accurate scanning capabilities. 
 
 - **Technologies Used:** Kotlin, Retrofit, API integration, etc.
-- **Play Store Link:** https://play.google.com/store/apps/details?id=com.offerzone.ozapp
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.scanbuddy
 
 ## 📫 Connect with Me
 
