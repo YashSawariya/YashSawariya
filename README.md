@@ -26,14 +26,14 @@ FunStar App is a amazing and simple app for game rewards.
 - **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
 - **Play Store Link:** https://play.google.com/store/apps/details?id=com.funstar.android
 
-### Project 2: HoneyBunch (Chat, Meet and Dating App)
-**Description:** HoneyBunch is the dating app that lets you find everyone
-you have crossed pathways with; the people kismat has
-decided you should meet. Like the profiles that catch your
-eye, get a crush and most importantly, get together!
+### Project 2: Oril: The Short Video App
+**Description:** Oril is a short-form video hosting service . It hosts an array
+of short-form user videos, from genres like pranks, stunts,
+tricks, jokes, dance, and entertainment with durations from
+15 to 30 Seconds.
 
 - **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
-- **Play Store Link:** https://play.google.com/store/apps/details?id=com.honeybunch.app
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.oril
 
 ### Project 3: ScanBuddy
 **Description:** ScanBuddy app is the fastest QR code and barcode reader on the market. This app is essential for every Android device, offering rapid and accurate scanning capabilities. 
