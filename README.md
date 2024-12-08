@@ -26,20 +26,22 @@ FunStar App is a amazing and simple app for game rewards.
 - **Technologies Used:** Kotlin, Retrofit, Ads & Offerwall Integration, Firebase, etc.
 - **Play Store Link:** https://play.google.com/store/apps/details?id=com.funstar.android
 
-### Project 2: Oril: The Short Video App
-**Description:** Oril is a short-form video hosting service . It hosts an array
-of short-form user videos, from genres like pranks, stunts,
-tricks, jokes, dance, and entertainment with durations from
-15 to 30 Seconds.
+### Project 2: TrucksUp:Ab apni chalao
+**Description:**  Discover the easiest way to book trucks online with Truck
+sUp, India’s leading online truck booking platform. Whether
+ you’re a business owner, a fleet manager, or an independent
+ truck driver, TrucksUp simplifies your logistics with ad
+vanced AI-driven load matching, real-time tracking, and a
+ range of services designed to meet your transportation needs.
 
 - **Technologies Used:** Kotlin, Retrofit, Firebase, etc.
-- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.oril
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.logistics.trucksup
 
 ### Project 3: ScanBuddy
 **Description:** ScanBuddy app is the fastest QR code and barcode reader on the market. This app is essential for every Android device, offering rapid and accurate scanning capabilities. 
 
 - **Technologies Used:** Kotlin, Retrofit, API integration, etc.
-- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.scanbuddy
+- **Play Store Link:** https://apkpure.net/scanbuddy/com.apps.scanbuddy
 
 ## 📫 Connect with Me
 
