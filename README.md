@@ -41,7 +41,7 @@ vanced AI-driven load matching, real-time tracking, and a
 **Description:** ScanBuddy app is the fastest QR code and barcode reader on the market. This app is essential for every Android device, offering rapid and accurate scanning capabilities. 
 
 - **Technologies Used:** Kotlin, Retrofit, API integration, etc.
-- **Play Store Link:** https://apkpure.net/scanbuddy/com.apps.scanbuddy
+- **Play Store Link:** https://play.google.com/store/apps/details?id=com.apps.scanbuddy
 
 ## 📫 Connect with Me
 
